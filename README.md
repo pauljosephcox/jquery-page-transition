@@ -1,5 +1,5 @@
 # jQuery Page Transitions
-Initalize the JS and then add css transitions to everythin!
+Initalize the JS and then add css transitions to everything!
 
 ### JavaScript Init
 
