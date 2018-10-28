@@ -1,6 +1,12 @@
 # jQuery Page Transitions
 Initalize the JS and then add css transitions to everythin!
 
+### JavaScript Init
+
+```
+PageTransitions.init();
+```
+
 ### CSS
 Write your css as normal. Then add an enter state and a leave state.
 The following example fades the class `.content` in on page load and then fades it out before leaving.
